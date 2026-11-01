@@ -1,7 +1,5 @@
-# Páginas de entrada
+# Páginas de entrada (endereço antigo)
 
-Páginas públicas de entrada do sistema de gestão das casas espíritas. Cada página mostra o logo e o nome da casa, explica que o acesso é pela conta do Claude, com o e-mail cadastrado pela coordenação, e leva para a página da casa no Claude.
+A página de entrada do Núcleo Espírita Sublime Galileu mudou para https://sublimegalileu.github.io (repositório `sublimegalileu/sublimegalileu.github.io`).
 
-- `sg/`: Núcleo Espírita Sublime Galileu
-
-Não há dado de pessoa aqui. As páginas são geradas no repositório do sistema (`npm run entrada`, a partir de `publicar/entradas.json`) e copiadas para cá.
+Este repositório só redireciona para lá: a raiz e `sg/` levam ao endereço novo, para os links antigos continuarem funcionando. Não há dado de pessoa aqui.
